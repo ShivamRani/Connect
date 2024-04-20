@@ -4,7 +4,9 @@ This repository is of a platform to help people to connect with their community.
 
 YouTube Link : https://www.youtube.com/watch?v=F-wGuabg8W4
 
-Figma Link : https://www.figma.com/proto/zxL0SRuZ33DoHbo4BRDcoY/Connect?page-id=0%3A1&type=design&node-id=6-2&viewport=-542%2C63%2C0.16&t=5wnzOPtSytvNuqvz-1&scaling=scale-down&starting-point-node-id=6%3A2&mode=design
+Figma Link : https://www.figma.com/file/zxL0SRuZ33DoHbo4BRDcoY/Connect?type=design&node-id=6%3A2&mode=design&t=neLpYW86S7ZU10f1-1
+
+Prototype Link : https://www.figma.com/proto/zxL0SRuZ33DoHbo4BRDcoY/Connect?page-id=0%3A1&type=design&node-id=6-2&viewport=-542%2C63%2C0.16&t=5wnzOPtSytvNuqvz-1&scaling=scale-down&starting-point-node-id=6%3A2&mode=design
 
 ![MacBook Pro 14_ - 17](https://github.com/ShivamRani/Connect/assets/83000202/eb662a32-64ad-4967-97c1-6c17142e17d1) 
 
